@@ -1,0 +1,3 @@
+[build]
+  base = "interactive-rating-component/"
+  command = "echo 'default context'"
